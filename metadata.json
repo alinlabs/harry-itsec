@@ -1,0 +1,8 @@
+{
+  "name": "Remix harry-itsec",
+  "description": "Interactive 90-Day Enterprise Sales Command Center for Sales Lead Bronyx, PT ITSEC Asia Tbk (IDX: CYBR).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
